@@ -1,0 +1,55 @@
+.Box {
+    display: flex;
+    flex-flow: row;
+justify-content: space-between;
+}
+
+
+.one{
+    background-color: darkolivegreen;
+    width: 100px ;
+    
+}
+.tow{
+    background-color: indianred;
+    width: 100px;
+}
+.three{
+    background-color: brown;
+    width: 100px;
+}
+
+.four{
+    display: flex;
+    flex-flow: row;
+justify-content: space-between;
+}
+.six{
+background-color: mediumslateblue;
+    width: 100px;
+}
+.seven{
+    background-color: yellow;
+    width: 100px;
+}
+.eight{
+    background-color: brown;
+    width: 100px;
+}
+.nine{
+    background-color: cadetblue;
+    width: 100px;
+}
+.five{
+    display: flex;
+    justify-content: space-between;
+    
+
+
+}
+.dflex{
+    display: flex;
+}
+.carré{
+    width: 100px;
+}
